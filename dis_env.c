@@ -14,7 +14,7 @@ int dis_env(__attribute__((unused)) char **cmd, __attribute__((unused)) int er)
 
 	for (i = 0; environ[i] != NULL; i++)
 	{
-		len =_strlen(environ[i]);
+		len = _strlen(environ[i]);
 		write(1, environ[i], len);
 		write(STDOUT_FILENO, "\n", 1);
 	}
