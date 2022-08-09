@@ -28,7 +28,7 @@ int check_builtin(char **cmd)
 
 	{
 		if (_strcmp(cmd[0], (fun + i)->command) == 0)
-				return (0);
+			return (0);
 		i++;
 	}
 	return (-1);
