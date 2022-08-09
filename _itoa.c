@@ -1,5 +1,5 @@
 #include "shell.h"
-/*
+/**
  * _itoa - Convert Integer To Char
  * @n: Int To Convert
  * Return: Char Pointer
@@ -22,7 +22,7 @@ char *_itoa(unsigned int n)
 		i++;
 	}
 	s[i] = (n % 10) + '0';
-    /**Function to rev the str(s) cuase the previous algorithm works backwards*/
+    /**Function to rev the str cuase the previous algorithm works backwards*/
 	array_rev(s, len);
 	s[i + 1] = '\0';
 	return (s);

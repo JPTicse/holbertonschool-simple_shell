@@ -1,5 +1,5 @@
 #include "shell.h"
-/*
+/**
  * _strdup - Duplicate A String
  * @str:String
  * Return: Duplicate String Failed Null
