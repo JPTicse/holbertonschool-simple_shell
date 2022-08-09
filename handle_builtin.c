@@ -9,7 +9,7 @@
 
 int handle_builtin(char **cmd, int er)
 {
-	 bul_t bil[] = {
+	bul_t bil[] = {
 		{"cd", change_dir},
 		{"env", dis_env},
 		{"help", display_help},

@@ -1,11 +1,10 @@
 #include "shell.h"
 
 /**
- * build - Build Command
- * @token: Excutable Command
- * @value: Directory Containing Command
- *
- * Return: Parsed Full Path Of Command Or NULL Case Failed
+ * build - build command
+ * @token: excutable command
+ * @value: directory containing command
+ * Return: parsed full path of command or NULL case failed
  */
 char *build(char *token, char *value)
 {
