@@ -172,5 +172,5 @@ Username@your-regular-prompt:~$ man ./man_1_simple_shell
 * Julieth Alvarado [JuliethAnarosa](https://github.com/JuliethAnarosa)
 
 <p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton Schk ool logo">
+  <img width="409" height="128" src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg%22%3E
 </p>
