@@ -1,10 +1,12 @@
 #include "shell.h"
-/*
- * _strcat - Concat Two String
- * @dest:First String
- * @src:Second String
- * Return:First String + Second String Char *
+
+/**
+ * _strcat - function that joins two strings
+ * @dest: first string
+ * @src: second string
+ * Return: first string + second string char /
  */
+
 char *_strcat(char *dest, char *src)
 {
 	char *s = dest;
