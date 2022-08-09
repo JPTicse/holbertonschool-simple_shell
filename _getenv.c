@@ -19,7 +19,7 @@ char *_getenv(char *name)
 		if (_strncmp(name, environ[i], nl) == 0)
 			/**creates a condition if equal to 0*/
 		{
-			vl = _strlen(environ[i] - nl;
+			vl = _strlen(environ[i]) - nl;
 					value = malloc(sizeof(char) * vl);
 					/**if there is nothing, the memory is freed an error message is thrown*/
 					if (!value)
