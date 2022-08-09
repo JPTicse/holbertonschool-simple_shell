@@ -45,5 +45,5 @@ int main(__attribute__((unused)) int argc, char **argv)
 		free_all(cmd, input);
 	}
 	free(input);
-	return (statue);
+	return (EXIT_SUCCESS);
 }
