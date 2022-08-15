@@ -12,7 +12,7 @@ Clone This Repo
 
 `` git clone https://github.com/JPTicse/simple_shell ``
 
-compile it with  
+compile it with :
 
 `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`. 
  
