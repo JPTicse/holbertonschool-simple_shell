@@ -1,7 +1,8 @@
 # Simple Shell
 
 ### Introduction
-This repository is a [Holberton School](https://www.holbertonschool.com/) Project. The school project consisted in writing a shell like sh (Bourne Shell) by Stephen Bourne  , in **C**, using a limited number of standard library functions, So Instead we used ower own function that we rewrited over the past three month [Here](https://github.com/Theemiss/holbertonschool-low_level_programming/)
+
+This repository is a [Holberton School](https://www.holbertonschool.com/) Project. The school project consisted in writing a shell like sh (Bourne Shell) by Stephen Bourne  , in **C**, using a limited number of standard library functions, So Instead we used ower own function that we rewrited over the past three month.
 
 The goal in this project was to make us understand how a shell works. To single out some items: what is the *environment*, the difference between *functions* and *system calls*, how to create *processes* using `execve`...  
 
@@ -172,5 +173,5 @@ Username@your-regular-prompt:~$ man ./man_1_simple_shell
 * Julieth Alvarado [JuliethAnarosa](https://github.com/JuliethAnarosa)
 
 <p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png" alt="Holberton Schk ool logo">
+  <img width="409" height="128" src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg%22%3E
 </p>
